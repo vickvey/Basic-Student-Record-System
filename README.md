@@ -1,1 +1,1 @@
-# Project Simple STudent Database
+# Project Simple Student Database
