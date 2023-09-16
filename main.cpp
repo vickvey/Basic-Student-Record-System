@@ -109,7 +109,7 @@ int main() {
         case 0:
             // to exit the program
             std::cout << "\n\nThanks for using the program!!\n";
-            std::cout << "Have a nice data:)\n\n";
+            std::cout << "Have a nice day:)\n\n";
             cont = 0;
             break;
         
