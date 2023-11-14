@@ -27,11 +27,11 @@ Before you can run this project, make sure you have the following dependencies i
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/vickvey/temporary-repo.git
+   git clone https://github.com/vickvey/Basic-Student-Record-System.git
 2. Navigate to project directory:
 
    ```sh
-   cd temporary-repo
+   cd Basic-Student-Record-System
 3. Make the project:
    ```sh
    make
